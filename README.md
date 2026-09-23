@@ -1,12 +1,12 @@
 # Hi, I'm Yashvi Patel 👋
 
-**Computer Systems Technician** based in Ottawa, Canada · Canadian Permanent Resident
+**Computer Systems Technician** based in Ottawa, Canada 
 
 Former NCR Service Desk Officer (co-op) at the Department of National Defence — handled 80–100 support tickets weekly across hardware, software, and account issues, with top QA scores for accuracy and professionalism.
 
 ## What I work with
 
-- **IT Support & Service Desk:** incident management, remote troubleshooting (MSRA, Bluebox), ticketing (Assyst)
+- **IT Support & Service Desk:** incident management, remote troubleshooting (MSRA, ticketing system
 - **Networking:** TCP/IP, VLANs, OSPF, DHCP/DNS, subnetting — CCNA certified
 - **Systems:** Windows Server & Active Directory, Linux, Proxmox VE, pfSense
 - **Scripting:** PowerShell, Bash
